@@ -14,7 +14,7 @@ Algoritmo piramide
 	FinPara
 FinAlgoritmo
 
-
+Esta listo el codigo de mi piramide 
 
 
 LINEAS DE CODIGO PARA ALUMNO EDUARDO
