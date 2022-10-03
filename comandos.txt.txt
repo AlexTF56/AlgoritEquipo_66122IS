@@ -15,7 +15,8 @@ Algoritmo piramide
 FinAlgoritmo
 
 Esta listo el codigo de mi piramide 
-listo 
+listo xdxd
+
 LINEAS DE CODIGO PARA ALUMNO EDUARDO
 
 Algoritmo Serie_Fibonacci
