@@ -17,7 +17,9 @@ FinAlgoritmo
 Esta listo el codigo de mi piramide 
 listo xdxd
 
+
 LINEAS DE CODIGO PARA ALUMNO EDUARDO
+
 
 Algoritmo Serie_Fibonacci
 	definir a,b,c,d,f como real 
@@ -34,7 +36,7 @@ Algoritmo Serie_Fibonacci
 FinAlgoritmo
 
 
-LINEAS DE CODIGO PARA GIOVANNI 
+LINEAS DE CODIGO PARA ALUMNO GIOVANNI 
 
 
 Algoritmo Ejercicio
@@ -85,5 +87,3 @@ Algoritmo Ejercicio
 FinAlgoritmo
 
 listo
-LISTO codigo operaciones
-XDDDdddd
