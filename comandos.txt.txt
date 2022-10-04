@@ -85,3 +85,4 @@ Algoritmo Ejercicio
 FinAlgoritmo
 
 listo
+LISTO codigo operaciones
