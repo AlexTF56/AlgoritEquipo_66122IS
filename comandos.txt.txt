@@ -35,6 +35,7 @@ Algoritmo Serie_Fibonacci
 	FinMientras
 FinAlgoritmo
 
+FIn de mi pseudocodigo
 
 LINEAS DE CODIGO PARA ALUMNO GIOVANNI 
 
